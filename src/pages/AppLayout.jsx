@@ -1,11 +1,12 @@
 import PageNave from "../components/PageNave";
-function Products() {
+
+function AppLayout() {
   return (
     <div>
       <PageNave />
-      <h1>product</h1>
+      <h1>app</h1>
     </div>
   );
 }
 
-export default Products;
+export default AppLayout;
